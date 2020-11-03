@@ -1,34 +1,113 @@
 {
    "questions":[
       {
-         "question": "В каком слове допущена ошибка в постановке ударения: НЕВЕРНО выделена буква, обозначающая ударный гласный звук?",
+         "question": "Do you often _____________ your granny?",
          "answers": [
-            "принудИть",
-            "углубИть",
-            "еретИк",
-            "плодоносИть",
-            "донЕльзя"
-         ]
+            "call",
+            "calls",
+            "calling",
+            "called"
+         ],
+         "rightAnswer": "call"
       },
       {
-         "question": "Определите предложение, в котором НЕ со словом пишется СЛИТНО",
+         "question": "What are they doing now in the garden? I think they _____________ the plants.",
          "answers": [
-            "Эта комната только кажется большой, а так она ничуть (НЕ)ПРОСТОРНЕЕ нашей.",
-            "(НЕ)СУМЕВШИЙ справиться с эмоциями гость вёл себя грубо.",
-            "Оля что-то всё время (НЕ)ДОГОВАРИВАЛА нам, скрывала.",
-            "Он пытался меня убедить, что моя попытка уйти от разговора — это (НЕ)ЧТО иное, как боязнь смотреть правде в глаза.",
-            "Всё это я рассказал просто, спокойно, (НЕ)СПЕША."
-         ]
+            "is watering",
+            "are watering",
+            "watered",
+            "waters"
+            
+         ],
+         "rightAnswer": "are watering"
       },
       {
-         "question": "В одном из приведённых ниже слов допущена ошибка в постановке ударения: НЕВЕРНО выделена буква, обозначающая ударный гласный звук. Выпишите это слово.",
+         "question": " Laura is busy at the moment. She _____________ her students’ homework.",
          "answers": [
-            "включАт",
-            "квартАл",
-            "опломбИровать",
-            "ободрИть.",
-            "послАла"
-         ]
+            "checks",
+            "are checking",
+            "is checking",
+            "checked",
+            "check"
+         ],
+         "rightAnswer": "is checking"
+      },
+      {
+         "question": "Maria Sharapova, a famous tennis player, _____________ the first Russian woman athlete who won Wimbledon.",
+         "answers": [
+            "becomes",
+            "was become",
+            "has became",
+            "became",
+            "will become"
+         ],
+         "rightAnswer": "became"
+      },
+      {
+         "question": "Did you _____________ it?",
+         "answers": [
+            "did",
+            "does",
+            "was doing",
+            "done",
+            "do"
+         ],
+         "rightAnswer": "do"
+      },
+      {
+         "question": "It’s very dangerous to go out alone at night so you must take care of _____________.",
+         "answers": [
+            "you",
+            "myself",
+            "themselves",
+            "yourself"
+            
+         ],
+         "rightAnswer": "yourself"
+      },
+      {
+         "question": "Please fill _____________ this registration form to get a membership of our swimming pool.",
+         "answers": [
+            "up",
+            "out",
+            "with",
+            "in"
+            
+         ],
+         "rightAnswer": "in"
+      },
+      {
+         "question": "The young boy _____________ house was burnt is weeping.",
+         "answers": [
+            "whose",
+            "who",
+            "which",
+            "that",
+            "whom"
+         ],
+         "rightAnswer": "whose"
+      },
+      {
+         "question": "_____________ the door be closed.",
+         "answers": [
+            "was",
+            "is",
+            "let",
+            "will",
+            "are"
+         ],
+         "rightAnswer": "let"
+      },
+      {
+         "question": " I work _____________ 9 a.m. to 5 p.m. on Mondays.",
+         "answers": [
+            "to",
+            "from",
+            "in",
+            "till",
+            "on"
+         ],
+         "rightAnswer": "from"
       }
    ]
 }
